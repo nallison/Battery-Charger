@@ -3,6 +3,8 @@ Battery-Charger
 
 2-way Battery Charger with microcontroller monitor
 
+![PCB Image](https://cloud.githubusercontent.com/assets/2725326/2675991/3ea9b384-c12a-11e3-80bd-db42a1486e8d.png "Eagle PCB Image")
+
 ## Overview
 
 These are design files for a two channel lead acid battery charger.  It is powered from a DC supply, such as a laptop adapter and is deisgned to charge 12 V, 7 Ah SLA batteries often used in gliders (sailplanes).
